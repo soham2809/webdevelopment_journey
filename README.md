@@ -7,7 +7,7 @@ This repository showcases my journey through web development, where I have compl
 ### 1. Beats Headphone Landing Page
 - **Description:** A landing page for a headphone company developed using HTML and CSS.
 - **Status:** Non-operational.
-- **Screenshot:** ![Insert Screenshot Here](#)
+- **Screenshot:** ![https://github.com/soham2809/webdevelopment_journey/blob/main/Beats_Headphone_webpage/Screenshot%202024-09-20%20142150.png?raw=true](#)
 
 ### 2. Headphone Landing Page
 - **Description:** Another landing page for a headphone company developed with HTML and CSS.
