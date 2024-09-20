@@ -1,0 +1,87 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 60px 0 60px;
+    margin-top: 55 px;
+    
+}
+.list {
+    display: flex;
+    align-items: center;
+    gap:63px;
+    list-style: none;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+    color: #ffc233;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+.list_items
+.logo{
+    cursor: pointer;
+}
+.small_button{
+    padding: 12px 40px;
+    background-color: #ff505f;
+    border:none;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24 px;
+    line-height: 30px;
+    color:#ffffff;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.hero{
+    max-width: 2000px;
+    margin: 0 auto;
+    text-align:center;
+    margin-top: 119px;
+
+}
+.hero_heading{
+    font-style: none;
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 114x;
+    color:#ffb406;
+    text-shadow: -1px 1px 2px #000,
+    1px 2px 6px #000,
+    1px -1px 0 #000,
+    -1px -1px 0 #000;   
+
+}
+.button_large{
+    background-color: #ff505f;
+    font-style: normal;
+    font-weight:600;
+    font-size:34px;
+    border:none;
+    line-height: 40px;
+    color:#ffffff;
+    padding: 20px 50px;
+    margin-top: 64px;
+    cursor:pointer;
+    border-radius: 10px;
+    
+
+}
+.bottom{
+    position: absolute;
+       
+}
