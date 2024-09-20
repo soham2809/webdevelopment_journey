@@ -12,11 +12,11 @@ This repository showcases my journey through web development, where I have compl
 ### 2. Headphone Landing Page
 - **Description:** Another landing page for a headphone company developed with HTML and CSS.
 - **Status:** Non-operational.
-- **Screenshot:** ![Insert Screenshot Here](#)
+- **Screenshot:** ![Insert Screenshot Here](https://github.com/soham2809/webdevelopment_journey/blob/main/Headphone_website_webpage/Screenshot%202024-09-20%20142337.png?raw=true)
 
 ### 3. Hospital Webpage
 - **Description:** A landing page for a hospital, where users can make online appointments.
-- **Screenshot:** ![Insert Screenshot Here](#)
+- **Screenshot:** ![Insert Screenshot Here](https://github.com/soham2809/webdevelopment_journey/blob/main/Hospital_webpage/Screenshot%202024-09-20%20142552.png?raw=true)
 
 ### 4. Move the Image Game
 - **Description:** A fun game where a ball moves in different directions using arrow keys. Developed using HTML, CSS, and JavaScript.
@@ -24,26 +24,26 @@ This repository showcases my journey through web development, where I have compl
 
 ### 5. Progress Bar
 - **Description:** A simple progress bar functionality developed to understand its utility. Built using HTML, CSS, and JavaScript.
-- **Screenshot:** ![Insert Screenshot Here](#)
+- **Screenshot:** ![Insert Screenshot Here](https://github.com/soham2809/webdevelopment_journey/blob/main/Progress_Bar/Screenshot%202024-09-20%20143957.png?raw=true)
 
 ### 6. Restaurant Webpage
 - **Description:** A landing page for a restaurant that facilitates online seat booking. Developed using HTML, CSS, and JavaScript.
 - **Status:** Non-operational.
-- **Screenshot:** ![Insert Screenshot Here](#)
+- **Screenshot:** ![Insert Screenshot Here](https://github.com/soham2809/webdevelopment_journey/blob/main/Restaurent_webpage/Screenshot%202024-09-20%20142707.png?raw=true)
 
 ### 7. SEO Website Webpage
 - **Description:** A landing page for an SEO company developed with HTML, CSS, and JavaScript.
 - **Status:** Non-operational.
-- **Screenshot:** ![Insert Screenshot Here](#)
+- **Screenshot:** ![Insert Screenshot Here](https://github.com/soham2809/webdevelopment_journey/blob/main/Seo_website_webpage/Screenshot%202024-09-20%20142844.png?raw=true)
 
 ### 8. Space Webpage
 - **Description:** A landing page for a spaceship company developed with HTML, CSS, and JavaScript.
 - **Status:** Non-operational.
-- **Screenshot:** ![Insert Screenshot Here](#)
+- **Screenshot:** ![Insert Screenshot Here](https://github.com/soham2809/webdevelopment_journey/blob/main/Space_webpage/Screenshot%202024-09-20%20143021.png?raw=true)
 
 ### 9. To-Do App
 - **Description:** A To-Do app that allows users to add, delete, and mark tasks as complete. Developed using HTML, CSS, and JavaScript.
-- **Screenshot:** ![Insert Screenshot Here](#)
+- **Screenshot:** ![Insert Screenshot Here](https://github.com/soham2809/webdevelopment_journey/blob/main/To_do/Screenshot%202024-09-20%20143851.png?raw=true)
 
 ## References
 
